@@ -5,5 +5,4 @@ function test1(params) {
     console.log('added after repo renaming into br-three');
 
     console.log('try revert');
-    console.log('change to del');
 }
